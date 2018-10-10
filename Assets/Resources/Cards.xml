@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CardCollection>
+  <Cards>
+    
+    <!--Master Cards-->
+    
+    <Card id ="101" cardIndex="1">
+      <text>“PlayerName, this is most annoying. It seems that the nanny has got a headache and so my son is without a ward. I need you to take care of him or find someone who will!”</text>
+      <causer>Master</causer>
+      <spriteName>MasterSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+    
+    <Card id ="102" cardIndex="2">
+      <text>“Oh, PlayerName, splendid! My driver is ill, so could you possibly drive me to town to run some errands?”</text>
+      <causer>Master</causer>
+      <spriteName>MasterSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="103" cardIndex="3">
+      <text>“I desperately need some peace and quiet to write some letters. I shall withdraw to my study. Please tell my family and the servants they are not to disturb me.”</text>
+      <causer>Master</causer>
+      <spriteName>MasterSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="104" cardIndex="4">
+      <text>“There you are! My cigar box has run empty! Be a sport and fetch me some cubans as fast as you can, will you?”</text>
+      <causer>Master</causer>
+      <spriteName>MasterSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+    
+    <!--Grandmother Cards-->
+
+    <Card id ="105" cardIndex="5">
+      <text>“A headache, again? Poppycock! The nanny has been drinking with the driver, I’m sure of it! PlayerName, that shameless hussy must be sent on her way today, before she brings shame on the whole house!“</text>
+      <causer>Grandmother</causer>
+      <spriteName>GrandmotherSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="106" cardIndex="6">
+      <text>“PlayerName, where has my son gone to? I need to seriously discuss Harry’s education with him!”</text>
+      <causer>Grandmother</causer>
+      <spriteName>GrandmotherSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="107" cardIndex="7">
+      <text>“Good heavens, PlayerName! I’ve just received a note saying reverend Sinclair will bring his aunt to dinner this evening. You must know his aunt is the countess of Hamptonshire! We must prepare a far more elaborate meal than we were planning to! Discuss this with the chef immediately and then do an inventory of the wine cellar. We need our finest wines for the table.”</text>
+      <causer>Grandmother</causer>
+      <spriteName>GrandmotherSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="108" cardIndex="8">
+      <text>”PlayerName! Tell the groundskeeper that we need roses for the dinner party! And our silverware is terribly dark. Be sure that the maid polishes them before the evening!”</text>
+      <causer>Grandmother</causer>
+      <spriteName>GrandmotherSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+    
+    <Card id ="109" cardIndex="9">
+      <text>“Oh, PlayerName, I am so exhausted from today’s events! Perhaps some port would calm my nerves. Would you be a dear and serve me a glass? Or in fact, bring the whole bottle!”</text>
+      <causer>Grandmother</causer>
+      <spriteName>GrandmotherSprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <!--Harry Cards-->
+
+    <Card id ="110" cardIndex="10">
+      <text>“PlayerName! I’m bored without my nanny! I want to go riding!”</text>
+      <causer>Harry</causer>
+      <spriteName>HarrySprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="111" cardIndex="11">
+      <text>”Grandma said she wants you to hire me a governess. I don’t want one! I won’t have one!”</text>
+      <causer>Harry</causer>
+      <spriteName>HarrySprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="112" cardIndex="12">
+      <text>”PlayerName! I want some candy canes! Now!”</text>
+      <causer>Harry</causer>
+      <spriteName>HarrySprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <Card id ="113" cardIndex="13">
+      <text>“I did not break the statue! It was the cat! You can’t prove anything!”</text>
+      <causer>Harry</causer>
+      <spriteName>HarrySprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <!--Cook Cards-->
+    
+    <Card id ="114" cardIndex="14">
+      <text>Did you hear about the nanny? Are you going to fire her? Personally I don’t care what you do, just keep that child away from my kitchen!</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+
+    <Card id ="115" cardIndex="15">
+      <text>“PlayerName! I’ve had it with this stove! I don’t think I’ll be able to go another day without getting a new one! Can you get me one of those new gas stoves by evening?”</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="116" cardIndex="16">
+      <text>“A dinner party, you say? Well, in that case I need some supplies for dinner and you need to fetch me some port from the wine cellar for the dessert.”</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <Card id ="117" cardIndex="17">
+      <text>“You know, dinner parties like these always make me realize how desperately I need some help in the kitchen. Would you please hire me some help?”</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+
+    <Card id ="118" cardIndex="18">
+      <text>“I’ve had it with this chaos with the dinner preparations! I need a break! PlayerName, take over for fifteen minutes!”</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+
+    <Card id ="119" cardIndex="19">
+      <text>“Oh this is a disaster! There isn’t enough port for the dessert! What do you think I should do?”</text>
+      <causer>Cook</causer>
+      <spriteName>CookSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+    
+    <!-- Maid Cards-->
+
+    <Card id ="120" cardIndex="20">
+      <text>“Harry is such an intolerable child! No wonder his nanny has a headache from spending so much time with him! If you make me look after him today, at least give me a raise!”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="121" cardIndex="21">
+      <text>“The little devil has gone and broken a statue! We need to tell the master about this!”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="122" cardIndex="22">
+      <text>“You can’t fire the Nanny! I’m sure she hasn’t done anything wrong! That old hag is so unfair! Sure, the driver was eyeing her that way, and maybe she was a bit taken with him too, but getting drunk together? Never!”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="123" cardIndex="23">
+      <text> “There are too many rooms to clean up by myself! I need more modern equipment! Will you get me one of those new vacuum cleaners?”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <Card id ="124" cardIndex="24">
+      <text> “Please, PlayerName, the countess is so scary! I don’t want to serve coffee to the ladies in the drawing room. May I stay in the dining room to see that the gentlemen have enough claret and cigarettes?”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+
+    <Card id ="125" cardIndex="25">
+      <text> “May I have tomorrow off? My mother is ill and I’d dearly like to go and help her around the house.”</text>
+      <causer>Maid</causer>
+      <spriteName>MaidSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+    
+    <!-- Groundskeeper Cards-->
+
+    <Card id ="126" cardIndex="26">
+      <text>“How I love the mornings, PlayerName! Come for a stroll with me, so we can discuss the changes I’m planning to do in the herb garden!”</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="127" cardIndex="27">
+      <text>“Oh good that I caught you, old chap! You see, my rake has broken, and I need a new one! How else am I going to even the tennis field for the master and keep the garden clean?”</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Morning</timeOfDay>
+    </Card>
+
+    <Card id ="128" cardIndex="28">
+      <text>“PlayerName you must forbid Harry from playing at the brook! He’s scaring away the trouts!”</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="129" cardIndex="29">
+      <text>I’ve had trouble with some poachers lately. What do you think we should do about it?</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Midday</timeOfDay>
+    </Card>
+
+    <Card id ="130" cardIndex="30">
+      <text>“Are you sure you need roses for the dinner party? My poor Queen Annes! Would you settle for tulips?”</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Afternoon</timeOfDay>
+    </Card>
+
+    <Card id ="131" cardIndex="31">
+      <text>“PlayerName, old chap! Are you sure you need to stand at the door during the dinner party? Wouldn’t you much rather come fishing with me? The fish bite so well in the evening, and you’ve had a rough day!”</text>
+      <causer>Groundskeeper</causer>
+      <spriteName>GroundskeeperSprite</spriteName>
+      <timeOfDay>Evening</timeOfDay>
+    </Card>
+    
+  </Cards>
+
+  <DiscardPile>
+    
+  </DiscardPile>
+  
+</CardCollection>

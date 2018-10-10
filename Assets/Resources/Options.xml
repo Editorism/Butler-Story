@@ -1,0 +1,820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OptionCollection>
+  
+  <Options>
+
+    <!---Master-->
+    <!---Card 1-->
+    
+    <Option optionIndex = "1" cardIndex="1">
+      <text>I’ll do it myself.</text>
+      <mastersEffect>+2.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="1">
+      <text>The maid can do it. I'll go find her, sir.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="1">
+      <text>I’m terribly sorry, sir, the staff has no time to do that, we’re all busy.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!---Card 2-->
+
+    <Option optionIndex = "1" cardIndex="2">
+      <text>Of course, sir.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>+1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="2">
+      <text>Yes, sir, I need to take care of some things myself. You don’t mind waiting at the club, do you? </text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="2">
+      <text>I’m afraid there just isn’t any time for that. I’m terribly sorry.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <!---Card 3-->
+
+    <Option optionIndex = "1" cardIndex="3">
+      <text>Of course, sir.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="3">
+      <text>Sir, please, if your mother wishes to see you, I cannot defy her.</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="3">
+      <text>*It’s the master’s duty to be available to his staff and family, and not your responsibility to guard the door.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!---Card 4-->
+
+    <Option optionIndex = "1" cardIndex="4">
+      <text>*There are no cubans at the house. Run by the vicarage to borrow some.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="4">
+      <text>*Send the maid to buy some.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="4">
+      <text>*There are no cubans but there are some brazilians. Send them to the master, maybe they’ll do.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!---Grandmother-->
+    <!---Card 5-->
+
+    <Option optionIndex = "1" cardIndex="5">
+      <text>*Agree, and tell her you will most likely fire the nanny.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="5">
+      <text>*Tell her the nanny has been an outstanding employee, and you can’t fire people for having headaches.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="5">
+      <text>*The old lady has put you in quite a spot. You don't know what to do.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Card 6-->
+
+    <Option optionIndex = "1" cardIndex="6">
+      <text>Guide her to the study.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="6">
+      <text>*Tell her you don’t know where the master is.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="6">
+      <text>*Tell her the master must not be disturbed.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 7-->
+
+    <Option optionIndex = "1" cardIndex="7">
+      <text>*Do exactly as she wishes.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="7">
+      <text>*Discuss the changes to the dinner plan with the chef and ask him to do an inventory of the wine cellar.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-2.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="7">
+      <text>*You've already planned the dinner for tonight, guests or no guests.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Card 8-->
+
+    <Option optionIndex = "1" cardIndex="8">
+      <text>Of course, ma’am!</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="8">
+      <text>She’s overworked as it is! No time for that!</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="8">
+      <text>I shall polish them myself to guarantee they shine like never before!</text>
+      <mastersEffect>+2.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Card 9-->
+
+    <Option optionIndex = "1" cardIndex="9">
+      <text>*Bring her a bottle of port*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="9">
+      <text>*If the old lady starts to tipple port this early, she won’t be in shape for dinner. She’ll get a glass, no more!*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="9">
+      <text>*The chef needs the port for the dessert, lady Fortesque will have to settle for sherry.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Harry Cards-->
+    <!--Card 10-->
+
+    <Option optionIndex = "1" cardIndex="10">
+      <text>*Sure he can go!*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="10">
+      <text>*No way! He always scares the horses! I'll have to give him something to occupy himself with*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="10">
+      <text>*I'll go with him to make sure he doesn't get into mischief*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 11-->
+
+    <Option optionIndex = "1" cardIndex="11">
+      <text>You’ll do fine with just a nanny for now.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="11">
+      <text>You need a governess to keep you in line.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="11">
+      <text>*I'll do it*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 12-->
+
+    <Option optionIndex = "1" cardIndex="12">
+      <text>*You can spare a twopence from the house budget to get him off your back.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="12">
+      <text>*No, the spoiled child needs discipline instead of sweets!*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="12">
+      <text>*Send him off to the cook. Maybe he has something for him*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Card 13-->
+
+    <Option optionIndex = "1" cardIndex="13">
+      <text>That’s it! I’ll tell the chef you won’t be having any dessert today.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="13">
+      <text>You’re grounded. Stay in your room until dinner.</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="13">
+      <text>Fine, it must have been the cat.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!-- Chef Cards-->
+    <!--Card 14-->
+
+    <Option optionIndex = "1" cardIndex="14">
+      <text>Young master Harry will do as he pleases, there’s no changing his mind!</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="14">
+      <text>Of course, no one shall disturb your domain!</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="14">
+      <text>I'll scold him if he comes even near the kitchen.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!--Card 15-->
+
+    <Option optionIndex = "1" cardIndex="15">
+      <text>*Arrange a top-of-the-line gas stove for the chef.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>-3.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="15">
+      <text>*Tell him the house can’t use that much money on a stove, and there is no way to get a stove that soon, but you can get him a stove catalogue.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="15">
+      <text>*It would take too much time and money to get him a new stove today, but you can probably get him a working wood range to replace his stove for now.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <!--Card 16-->
+
+    <Option optionIndex = "1" cardIndex="16">
+      <text>*Drive to the town to get the supplies.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="16">
+      <text>*No time for that! She’ll just have to be imaginative with the ingredients that we have.*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="16">
+      <text>I'll send the maid to do that.</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-2.0</moneyEffect>
+    </Option>
+
+    <!--Card 17-->
+
+    <Option optionIndex = "1" cardIndex="17">
+      <text>*Hire a kitchen maid* </text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="17">
+      <text>*Hire plenty of help for the cook*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>-2.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="17">
+      <text>We don't have money for that</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 18-->
+
+    <Option optionIndex = "1" cardIndex="18">
+      <text>*Take over, but don’t touch anything unless you absolutely have to. Just try to keep anything from burning or boiling over.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="18">
+      <text>*Take over, and let your culinary genius show! Add some spices!*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="18">
+      <text>*He’ll just have to deal with it, like everyone else in this house.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 19-->
+
+    <Option optionIndex = "1" cardIndex="19">
+      <text>Soufflé!</text>
+      <mastersEffect>+2.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>+1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="19">
+      <text>Use red wine instead, and add some sugar.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="19">
+      <text>Cake.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!-- Maid Cards-->
+    <!--Card 20-->
+
+    <Option optionIndex = "1" cardIndex="20">
+      <text>*She doesn’t have to do it*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="20">
+      <text>*She has to do it so she can have her raise*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="20">
+      <text>*We all must do our duty here.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 21-->
+
+    <Option optionIndex = "1" cardIndex="21">
+      <text>I think we’d better not, he’s too vexed with his business affairs at the moment.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="21">
+      <text>We must, he needs to know how his son behaves!</text>
+      <mastersEffect>-2.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="21">
+      <text>Let's tell Harry's grandmother instead. The little rascal fears her.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 22-->
+
+    <Option optionIndex = "1" cardIndex="22">
+      <text>I believe you, I won’t fire her.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="22">
+      <text>I believe old mrs. Fortesque, Annie has to go.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>+1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="22">
+      <text>I'll ask the master about this situation.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 23-->
+
+    <Option optionIndex = "1" cardIndex="23">
+      <text>This is a modern house, sure we must have a vacuum cleaner!</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-2.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="23">
+      <text>Such an expensive piece of modern nonsense shall not enter this house!</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="23">
+      <text>They make too much noise, I'll hire some help instead.</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <!--Card 24-->
+
+    <Option optionIndex = "1" cardIndex="24">
+      <text>*What utter nonsense! A maid cannot be so timid! Off to the drawing room with her!*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="24">
+      <text>*Well, actually you’d much rather attend to the countess yourself. The gentlemen won’t mind their cigarettes being served by the maid.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="24">
+      <text>*You can take care of both rooms yourself.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 25-->
+
+    <Option optionIndex = "1" cardIndex="25">
+      <text>What a good daughter, of course you can!</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="25">
+      <text>We need to clean up after the dinner party, you’ll have to wait till the day after tomorrow.</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="25">
+      <text>I know you’re going to see your fellow and not your mother. Shame on you, girl!</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+    
+    <!-- Groundskeeper Cards-->
+    <!--Card 26-->
+
+    <Option optionIndex = "1" cardIndex="26">
+      <text>*Sure, you have time for a little stroll to discuss the changes.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="26">
+      <text>*You’re far too busy, he’ll have to decide on the changes himself.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="26">
+      <text>*Changes to the herb garden, again? He’s pouring far too much money into that piece of land, it has to stop.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>+1.0</moneyEffect>
+    </Option>
+
+    <!--Card 27-->
+
+    <Option optionIndex = "1" cardIndex="27">
+      <text>*Promise to get him a new rake.*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="27">
+      <text>*This is the fifth rake this year! What does he do with them? No more!*</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>+1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="27">
+      <text>I've got more important things to do.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 28-->
+
+    <Option optionIndex = "1" cardIndex="28">
+      <text>He’s the master’s son! I can’t forbid such things from him!</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="28">
+      <text>Of course. I will speak to him strictly.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="28">
+      <text>I'll have to ask the master first.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>0</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <!--Card 29-->
+
+    <Option optionIndex = "1" cardIndex="29">
+      <text>Alert the officials. We need to catch these freeloaders!</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="29">
+      <text>We have enough rabbits in these forests to not care about a few poor poachers.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-1.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="29">
+      <text>We need 24-hour surveillance throughout the area. And also walls! Are you up for it, old chap?</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>-3.0</moneyEffect>
+    </Option>
+
+    <!--Card 30-->
+
+    <Option optionIndex = "1" cardIndex="30">
+      <text>Old mrs. F asked specifically for roses.</text>
+      <mastersEffect>+2.0</mastersEffect>
+      <staffEffect>-2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="30">
+      <text>Maybe tulips will do this time.</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="30">
+      <text>I'll buy you that new rake and new seeds to plant if you let me have just a few roses.</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>0.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>-2.0</moneyEffect>
+    </Option>
+
+    <!--Card 31-->
+
+    <Option optionIndex = "1" cardIndex="31">
+      <text>*Damn it, he’s right! They won’t miss you if you let the maid serve the table and steal an hour or two for your own wellbeing!*</text>
+      <mastersEffect>-1.0</mastersEffect>
+      <staffEffect>+2.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "2" cardIndex="31">
+      <text>*There is a countess at the table, alas, you must oversee the dinner party.*</text>
+      <mastersEffect>+1.0</mastersEffect>
+      <staffEffect>-1.0</staffEffect>
+      <timeEffect>2</timeEffect>
+      <moneyEffect>0.0</moneyEffect>
+    </Option>
+
+    <Option optionIndex = "3" cardIndex="31">
+      <text>I'm sure I can post one of the servant girls at the door for a while. Let's go! But only for a little while!</text>
+      <mastersEffect>0.0</mastersEffect>
+      <staffEffect>+1.0</staffEffect>
+      <timeEffect>1</timeEffect>
+      <moneyEffect>0</moneyEffect>
+    </Option>
+  
+  </Options>
+  
+</OptionCollection>
